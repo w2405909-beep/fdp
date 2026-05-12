@@ -2,10 +2,35 @@
     "version": 1,
     "salt": "FDPCLIENT_STATIC_SALT_V1",
     "keys": [
-      {
+    {
          "name": "widya",
          "keyHash": "bb7f5129ec083614639bed8eeca47d3b2260ab4097542c06b9bf7b3f87bbd76c",
          "enabled": true
-      }
+    },
+    {
+         "name": "bbrt",
+         "keyHash": "839a9b3094e5ff3327094bbbc04042aa4b97131ac12c00b2e6992b8612eca197",
+         "enabled": true
+    },
+    {
+        "name": "ando",
+        "keyHash": "f6a3f212b03c9b27cf8c940b7529f62e44d4b3d4ce4b930f324274c6fdf045aa",
+        "enabled": true
+    },
+    {
+        "name": "qio",
+        "keyHash": "6fb90f9a07bf2325348b34533d8bef69b767e40d808866be79242b8b5372fd1d",
+        "enabled": true
+    },
+    {
+        "name": "miplay",
+        "keyHash": "1cbe79f9d91385952ead20d7f680d4dff8ff762cc0889df3a4be3d4c7222fd65",
+        "enabled": true
+    },
+    {
+        "name": "ars",
+        "keyHash": "2f1761a13da22347f77ac91566242e3cd3c63c9a4482cdd796ede28b63675646",
+        "enabled": true
+    }
     ]
   }
