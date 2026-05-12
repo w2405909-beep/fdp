@@ -1,0 +1,11 @@
+{
+    "version": 1,
+    "salt": "FDPCLIENT_STATIC_SALT_V1",
+    "keys": [
+      {
+        "name": "widya",
+        "keyHash": "7f6d9c4e8b2fPLACEHOLDERc81d91aa",
+        "enabled": true
+      }
+    ]
+  }
