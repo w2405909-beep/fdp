@@ -3,9 +3,9 @@
     "salt": "FDPCLIENT_STATIC_SALT_V1",
     "keys": [
       {
-        "name": "widya",
-        "keyHash": "0addb3bb2df1554a943cf1de25548eb2f99dc0c0e36a66bc3c95436fd159fb58",
-        "enabled": true
+         "name": "widya",
+         "keyHash": "0a87a4a68284a794f4260375e885970a6f9f0b65087737dcf59c76df56e8e0c1",
+         "enabled": true
       }
     ]
   }
